@@ -52,4 +52,4 @@ Make sure you have the following installed on your system:
 
 - [Anik Roy](https://github.com/Eternatus29)
 - [Luvkush Sharma](https://github.com/Luvkush8941)
-- [Anik Roy](https://github.com/DHEERAJ-QWERTYUIOP)
+- [Dheeraj Sharma](https://github.com/DHEERAJ-QWERTYUIOP)
