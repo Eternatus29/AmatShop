@@ -53,7 +53,3 @@ Make sure you have the following installed on your system:
 - [Anik Roy](https://github.com/Eternatus29)
 - [Luvkush Sharma](https://github.com/Luvkush8941)
 - [Anik Roy](https://github.com/DHEERAJ-QWERTYUIOP)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
